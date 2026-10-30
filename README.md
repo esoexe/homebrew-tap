@@ -10,7 +10,7 @@ brew install --cask esoexe/tap/astro-ai
 brew install esoexe/tap/astro-ai
 ```
 
-Current version: **1.7.1**. Update with `brew upgrade astro-ai`.
+Current version: **1.8.0**. Update with `brew upgrade astro-ai`.
 
 The macOS app is not notarized by Apple yet. If macOS blocks the first start, right-click the app and choose Open,
 or install with `brew install --cask --no-quarantine esoexe/tap/astro-ai`.
